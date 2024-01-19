@@ -6,13 +6,7 @@ The Magic Ball app is interactive, it allows you to ask questions and receive an
 
 https://github.com/Nelivet/App-MagicBall-UIKit/assets/93177387/8013a605-da3c-4c20-87aa-c9020f2e675b
 
-:computer: :wrench:
-
-
-
-:computer: :white_check_mark:
-
-
+ :white_check_mark:
 
 ### **Creditos**
 ____________________________________________________________________________________________________________________________________________
